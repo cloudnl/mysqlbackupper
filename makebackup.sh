@@ -185,3 +185,10 @@ exec 2>&-
 umount "${localbackupdir}"
 
 log 'done'
+
+###########
+# LICENSE #
+###########
+
+# Copyright 2013, 2014 Cloud.nl.
+# Program distributed under the terms of the GNU General Public License
